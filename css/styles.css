@@ -1,7 +1,13 @@
 body
+
+
 h1 {
   color: blue;
   text-align: center;
+  background-color: yellow;
+   font-size: 50px;
+   font-style: italic;
+
 }
 h2 {
   color: green;
